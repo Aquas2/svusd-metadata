@@ -2,11 +2,11 @@
   "name": "svUSD",
   "symbol": "svUSD",
   "description": "Decentralized stablecoin backed by USDC, pegged to USD on Solana.",
-  "image": "https://raw.githubusercontent.com/Aquas2/svusd-metadata/refs/heads/main/svUSD%20logo%20.png",
+  "image": "https://raw.githubusercontent.com/Aquas2/svusd-metadata/refs/heads/main/svUSD%20logo.png",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Aquas2/svusd-metadata/refs/heads/main/svUSD%20logo%20.png",
+        "uri": "https://raw.githubusercontent.com/Aquas2/svusd-metadata/refs/heads/main/svUSD%20logo.png",
         "type": "image/png"
       }
     ],
