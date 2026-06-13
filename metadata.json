@@ -2,11 +2,11 @@
   "name": "XGUSD",
   "symbol": "XGUSD",
   "description": "Decentralized stablecoin backed by USDC, pegged to USD on Solana.",
-  "image": "https://raw.githubusercontent.com/Aquas2/svusd-metadata/refs/heads/main/new%20logo.jpg",
+  "image": "https://raw.githubusercontent.com/Aquas2/svusd-metadata/refs/heads/main/LOGOX.png",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Aquas2/svusd-metadata/refs/heads/main/new%20logo.jpg",
+        "uri": "https://raw.githubusercontent.com/Aquas2/svusd-metadata/refs/heads/main/LOGOX.png",
         "type": "image/png"
       }
     ],
